@@ -1,0 +1,7 @@
+{
+  "waves": [
+    ["cat", "dog", "fish"],
+    ["apple", "banana", "orange"],
+    ["elephant", "giraffe", "crocodile"]
+  ]
+}
